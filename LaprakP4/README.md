@@ -2,7 +2,6 @@
 
 ## Sistem Perpustakaan Mini Berbasis Java
 
-> **Catatan dokumentasi:** README ini disusun setelah menganalisis seluruh isi folder `LaprakP4` pada repository `zakk-zekk/Praktikum-PBO`. Struktur aktual yang ditemukan adalah satu package utama `library` dengan empat subpackage: `model`, `exception`, `service`, dan `main`.
 
 ---
 
@@ -29,17 +28,15 @@
 
 | Keterangan | Isi |
 |---|---|
-| Nama | **Febrian Zaki** *(teridentifikasi dari data anggota awal pada `MainApp.java`)* |
-| NIM | Silakan isi sesuai NIM mahasiswa |
-| Kelas | Silakan isi sesuai kelas |
+| Nama | **Febrian Zaki Hidayatulloh** |
+| NIM | L0325045 |
+| Kelas | B Informatika PSDKU |
 | Mata Kuliah | Pemrograman Berorientasi Objek (PBO) |
 | Praktikum | Praktikum PBO — Laprak P4 |
 | Topik | Sistem Perpustakaan Mini menggunakan Java |
 | Repository | `zakk-zekk/Praktikum-PBO` |
 | Folder | `LaprakP4` |
 | Bahasa | Java |
-
-> **Penting:** Nama `Febrian Zaki` pada program merupakan data contoh anggota perpustakaan (`M001`), bukan metadata formal repository. Jika identitas mahasiswa berbeda, ubah tabel ini sebelum laporan dikumpulkan.
 
 ---
 
