@@ -1,0 +1,27 @@
+=== LAPORAN NILAI SISWA ===
+
+1. Nama   : Jeki
+   Nilai  : 85.0
+   Status : Lulus
+
+2. Nama   : Ridwan
+   Nilai  : 90.0
+   Status : Lulus
+
+3. Nama   : Nisa
+   Nilai  : 65.0
+   Status : Tidak Lulus
+
+4. Nama   : Faza
+   Nilai  : 80.0
+   Status : Lulus
+
+5. Nama   : Bule
+   Nilai  : 50.0
+   Status : Tidak Lulus
+
+---------------------------
+RINGKASAN
+Rata-rata nilai kelas : 74,00
+Jumlah siswa lulus    : 3
+Jumlah tidak lulus    : 2
