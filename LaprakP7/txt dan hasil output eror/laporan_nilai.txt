@@ -1,0 +1,14 @@
+=========== LAPORAN NILAI MAHASISWA ===========
+No   Nama                 NIM          Nilai    Grade  Status      
+------------------------------------------------------------------
+1    JEKI                 2025001      85,00    A      LULUS       
+2    RIDWAN               2025002      90,00    A      LULUS       
+3    NISA                 2025003      65,00    C      TIDAK LULUS 
+4    FAZA                 2025004      78,00    B      LULUS       
+5    ASEP                 2025005      55,00    D      TIDAK LULUS 
+------------------------------------------------------------------
+Jumlah Mahasiswa : 5
+Rata-rata Nilai  : 74,60
+Jumlah Lulus     : 3
+Jumlah Tdk Lulus : 2
+Batas Kelulusan  : 70.0
